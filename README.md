@@ -13,8 +13,8 @@ Learn Python from fundamentals to practical projects.
 | Day | Topic | Status |
 |---|---|---|
 | Day 01 | Python Fundamentals | ✅ |
-| Day 02 | Operators & Expressions | ⏳ |
-| Day 03 | Conditional Statements | ⏳ |
+| Day 02 | Operators & Expressions | ✅ |
+| Day 03 | Conditional Statements | ✅ |
 | Day 04 | Loops | ⏳ |
 | Day 05 | Loops & Practice | ⏳ |
 | ... | ... | ⏳ |
