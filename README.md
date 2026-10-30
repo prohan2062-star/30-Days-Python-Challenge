@@ -17,8 +17,8 @@ Learn Python from fundamentals to practical projects.
 | Day 03 | Conditional Statements | ✅ |
 | Day 04 | Loops | ✅ |
 | Day 05 | Loops & Practice | ✅ |
-| ... | ... | ⏳ |
-| Day 30 | Final Project | ⏳ |
+| ... | ... | ✅ |
+| Day 30 | Final Project | ✅ |
 
 ## 🧠 Skills I'm Building
 
